@@ -1,0 +1,42 @@
+
+body {
+    background: #f2f2f2;
+}
+
+.top-gap{
+    margin-top: 50px;
+}
+
+.text-black{
+    color: #000 !important;
+}
+
+.text-grey{
+    color: #c2c2c2 !important;
+}
+
+.my-1{
+    margin-top: 1rem!important;
+    margin-bottom: 1rem!important;
+}
+
+.p-2{
+    padding: 2rem!important;
+}
+
+.py-3{
+    padding-top: 3rem!important;
+    padding-bottom: 3rem!important;
+}
+
+.no-border{
+    border: none!important;
+}
+
+input[type=email], input[type=password], input[type=search], input[type=text]{
+    border: 1px solid;
+    padding: 10px;
+    border-color: #f2f2f2;
+    border-radius: 5px;
+    margin:2px;
+}
